@@ -1,7 +1,7 @@
 <div class="text-mono text-small mb-3">
         <a href="/yoldoshov2002/yoldoshov2002" class="no-underline Link--primary">yoldoshov2002</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
-<a href="https://rishavchanda.io" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <h1 align="center">Hi 👋, I'm Yuldoshov Umrzoq</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
