@@ -4,10 +4,9 @@
 <a href="https://3d-resume.netlify.app/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <h1 align="center">Hi 👋, I'm Yuldoshov Umrzoq</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-
-
-<div style="display:flex">
-<div style="width:50%">
+        <p  width="400">
+        <img align="right" width="400" height="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+</p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoldoshov2002&label=Profile%20views&color=0e75b6&style=flat" alt="yoldoshov2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yuldoshovumrzoq" target="blank"><img src="https://img.shields.io/twitter/follow/yuldoshovumrzoq?logo=twitter&style=for-the-badge" alt="yuldoshovumrzoq" /></a> </p>
